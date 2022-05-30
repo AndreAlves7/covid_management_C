@@ -1,0 +1,87 @@
+
+ Designacao Designacao: 2
+Numero Utente: 1
+tipo de teste: 1
+Data realizacao: 01/01/2021
+
+Tempo de duracao: 1
+Hora da colheita (minutos): 2
+resultado: Positivo
+
+ Nome Utilizador: joao
+ Tipo Membro: estudante
+ Estado Vacinacao: isolamentoDesignacao: 1
+Numero Utente: 1
+tipo de teste: 1
+Data realizacao: 01/01/2021
+
+Tempo de duracao: 2
+Hora da colheita (minutos): 2
+resultado: Positivo
+-------------------------------
+ Nome Utilizador: joao
+ Tipo Membro: estudante
+ Estado Vacinacao: quarentenaDesignacao: 3
+Numero Utente: 1
+tipo de teste: 2
+Data realizacao: 01/01/2021
+
+Tempo de duracao: 1
+Hora da colheita (minutos): 1
+resultado: Inconclusivo
+-------------------------------
+ Nome Utilizador: joao
+ Tipo Membro: estudante
+ Estado Vacinacao: quarentena
+Designacao: 2
+Numero Utente: 1
+tipo de teste: 1
+Data realizacao: 01/01/2021
+Tempo de duracao: 2
+Hora da colheita (minutos): 2
+resultado: Inconclusivo
+-------------------------------
+ Nome Utilizador: joao
+ Tipo Membro: estudante
+ Estado Vacinacao: isolamento
+Designacao: 1
+Numero Utente: 1
+tipo de teste: 1
+Data realizacao: 01/01/2021
+Tempo de duracao: 2
+Hora da colheita (minutos): 2
+resultado: Positivo
+-------------------------------
+ Nome Utilizador: joao
+ Tipo Membro: estudante
+ Estado Vacinacao: quarentena
+Designacao: 2
+Numero Utente: 1
+tipo de teste: 1
+Data realizacao: 01/01/2021
+Tempo de duracao: 2
+Hora da colheita (minutos): 2
+resultado: Inconclusivo
+-------------------------------
+ Nome Utilizador: joao
+ Tipo Membro: estudante
+ Estado Vacinacao: isolamento
+Designacao: 1
+Numero Utente: 1
+tipo de teste: 1
+Data realizacao: 01/01/2021
+Tempo de duracao: 2
+Hora da colheita (minutos): 2
+resultado: Positivo
+-------------------------------
+ Nome Utilizador: joao
+ Tipo Membro: estudante
+ Estado Vacinacao: quarentena
+Designacao: 3
+Numero Utente: 1
+tipo de teste: 1
+Data realizacao: 01/01/2021
+Tempo de duracao: 1
+Hora da colheita (minutos): 1
+resultado: Inconclusivo
+-------------------------------

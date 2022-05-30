@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1642636474 source:x:\escola\programação\projeto\projeto_final\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funcoesLeitura.h"
+	"funcoesMembros.h"
+	"funcoesAgendamento.h"
+	"funcoesEstatistica.h"
+	"funcoesConfinamentos.h"
+	"funcoesAuxiliares.h"
+
+1641921375 x:\escola\programação\projeto\projeto_final\projetofinal\funcoesleitura.h
+
+1642617392 x:\escola\programação\projeto\projeto_final\projetofinal\funcoesmembros.h
+	"funcoesLeitura.h"
+	"tipoMembro.h"
+	"tipoConfinamento.h"
+	"enumsMembros.h"
+	"funcoesConfinamentos.h"
+	"funcoesAgendamento.h"
+
+1641921278 source:x:\escola\programação\projeto\projeto_final\projetofinal\funcoesleitura.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"funcoesLeitura.h"
+
+1642633544 source:x:\escola\programação\projeto\projeto_final\projetofinal\funcoesmembros.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"funcoesLeitura.h"
+	"tipoMembro.h"
+	"funcoesConfinamentos.h"
+	"funcoesMembros.h"
+	"enumsMembros.h"
+	"funcoesAgendamento.h"
+
+1642635563 source:x:\escola\programação\projeto\projeto_final\projetofinal\funcoesagendamento.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	"funcoesLeitura.h"
+	"funcoesMembros.h"
+	"funcoesAgendamento.h"
+	"funcoesAuxiliares.h"
+
+1642629833 x:\escola\programação\projeto\projeto_final\projetofinal\funcoesagendamento.h
+	"funcoesLeitura.h"
+	"tipoAgendamento.h"
+	"tipoMembro.h"
+	"enumsAgendamento.h"
+	"funcoesMembros.h"
+
+1642635981 source:x:\escola\programação\projeto\projeto_final\projetofinal\funcoesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoesLeitura.h"
+	"tipoMembro.h"
+	"tipoConfinamento.h"
+	"tipoAgendamento.h"
+
+1642635281 x:\escola\programação\projeto\projeto_final\projetofinal\funcoesauxiliares.h
+	"funcoesLeitura.h"
+
+1642636422 x:\escola\programação\projeto\projeto_final\projetofinal\funcoesestatistica.h
+
+1642636413 source:x:\escola\programação\projeto\projeto_final\projetofinal\funcoesestatistica.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"funcoesMembros.h"
+	"funcoesAuxiliares.h"
+	"funcoesAgendamento.h"
+
+1642616370 x:\escola\programação\projeto\projeto_final\projetofinal\funcoesconfinamentos.h
+	"funcoesLeitura.h"
+	"funcoesMembros.h"
+	"funcoesConfinamentos.h"
+	"enumsMembros.h"
+	"funcoesConfinamentos.h"
+	"funcoesAgendamento.h"
+
+1642636075 source:x:\escola\programação\projeto\projeto_final\projetofinal\funcoesconfinamentos.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	"funcoesConfinamentos.h"
+
+1642611295 x:\escola\programação\projeto\projeto_final\projetofinal\enumsmembros.h
+
+1642614913 x:\escola\programação\projeto\projeto_final\projetofinal\enumsagendamento.h
+
+1642611512 source:x:\escola\programação\projeto\projeto_final\projetofinal\enumsmembros.c
+	<stdio.h>
+	"enumsMembros.h"
+
+1642612988 source:x:\escola\programação\projeto\projeto_final\projetofinal\enumsagendamento.c
+	<stdio.h>
+	"enumsAgendamento.h"
+
+1642616167 x:\escola\programação\projeto\projeto_final\projetofinal\tipoagendamento.h
+	"funcoesLeitura.h"
+	"enumsAgendamento.h"
+
+1642616062 x:\escola\programação\projeto\projeto_final\projetofinal\tipomembro.h
+	"funcoesLeitura.h"
+	"enumsMembros.h"
+
+1642616316 x:\escola\programação\projeto\projeto_final\projetofinal\tipoconfinamento.h
+	"funcoesLeitura.h"
+	"enumsMembros.h"
+
