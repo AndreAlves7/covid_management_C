@@ -40,30 +40,40 @@ inconclusivo), a hora da colheita e o tempo de duração (em minutos).
 • Apresentar no menu principal a seguinte informação: quantidade de membros
 da comunidade, quantidade de testes agendados, quantidade de testes
 realizados e quantidade de membros vacinados.
+
 • Inserir e listar a informação referente aos membros da comunidade.
 Deverão também ser listadas, para cada membro, a quantidade de testes
 realizados e a informação (tipo de teste, data) dos testes agendados.
+
 • Registar/atualizar o estado de vacinação de um membro da comunidade.
+
 • Registar/atualizar o estado de confinamento de um membro da comunidade.
+
 • Agendar a realização de um teste, considerando que num determinado dia se
 poderão efetuar, no máximo, 15 testes do tipo PCR.
 • Listar os dados de todos os testes. Para cada teste realizado deverão
 também ser mostrados o resultado, a hora de realização e a duração.
+
 • Alterar a data agendada para a realização de um teste.
+
 • Registar o resultado de um teste previamente agendado.
 Toda a informação do teste, acrescida do nome e do estado da vacinação do
 membro da comunidade que o realizou, deverá ser acrescentada num log, em
 ficheiro de texto.
+
 • Armazenar (e ler) em ficheiro(s) binário(s) a informação referente aos
 membros da comunidade académica e aos testes agendados.
+
 • Apresentar a informação de um teste (selecionado pelo utilizador),
 incluindo a seguinte informação do respetivo membro da comunidade
 académica: nome, tipo de membro e quantidade de testes positivos.
+
 • Apresentar os seguintes dados estatísticos: quantidade de cada tipo de
 membro da comunidade académica, tempo médio de duração de cada teste
 realizado, percentagem de testes inconclusivos, membro(s) da comunidade
 académica com a menor quantidade de testes realizados, e teste(s)
 realizado(s) mais recente.
+
 • Apresentar uma listagem dos casos de confinamento ocorridos contendo a
 seguinte informação: membro da comunidade académica, tipo de confinamento
 (quarentena ou isolamento profilático), data de confinamento e tempo de
